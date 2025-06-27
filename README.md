@@ -1,10 +1,5 @@
 
 
-
-
-
-
-
 # F5 no pop
 Podcast feito por IA
 
